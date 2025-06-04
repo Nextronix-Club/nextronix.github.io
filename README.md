@@ -1,7 +1,7 @@
 # 🌐 nextronix.github.io – Official Website of Nextronix | UTD CSVTU
 
 This is the GitHub Pages repository for the **Nextronix** Robotics Club of **University Teaching Department, CSVTU**.  
-It powers our official club website: [https://nextronix.github.io](https://nextronix.github.io)
+
 
 ## 🧾 Contents
 
