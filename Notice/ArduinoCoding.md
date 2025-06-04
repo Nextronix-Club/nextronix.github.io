@@ -1,13 +1,18 @@
-📢 NOTICE
-🎓 Arduino Coding Workshop Alert! 🔧💡
+🚨NEXTRONIX WORKSHOP!🚨
 
-Get ready to dive into the world of circuits and code!
-Join us for an exciting Arduino Coding Workshop 👨‍💻, where you'll learn to bring your ideas to life using microcontrollers!
+Get ready to power up your skills with NEXTRONIX!
+We're thrilled to invite you to our Arduino Programming Workshop - a day full of learning, coding, and innovation!
 
-🗓 Date: 2nd May 2025
-⏰ Time: 4:20 PM onwards
-📍 Venue: Auditorium UTD 1 CSVTU
+🛠 Hands-on Arduino programming
+💡 Real-world project building
+⚡ Introduction to electronics & microcontrollers
+🎯 Exclusive Member Selection Test — prove your skills & join Nextronix!
 
-✨ Don’t miss this hands-on experience to level up your tech skills!
+Whether you're a beginner or a tech wizard, this is your chance to dive into the world of embedded systems and be a part of something BIG!
 
-— Team Nextronix ⚙
+🗓 Date: 5th May 2025
+🕖 Time: 7:00 PM
+💻 Mode: Online
+🔗 Google Meet Link :https://meet.google.com/jfi-bxhn-gxa
+
+Bring your laptops & enthusiasm!
