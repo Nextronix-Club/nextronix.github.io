@@ -1,9 +1,14 @@
-# 🖼️ Event Images
+# 📢 Club Notices & Announcements
 
-This folder contains official photos and galleries from events organized by **Nextronix – UTD CSVTU**.
+This folder holds official notices and announcements related to Nextronix activities and events.
 
-## 📌 How to Use
-- Organize images in folders named after each event (e.g., `Workshop_2025_March`, `Roborace_2024`)
-- Use compressed, web-optimized formats (`.jpg`, `.webp`)
-- Include a `README.md` inside each event folder describing the event and date
+## 📌 Types of Files
+- Event participation notices
+- Meeting calls
+- Result declarations
+- Workshop invitations
 
+## ✅ Guidelines
+- Use clear filenames like `Workshop_Call_March2025.pdf`
+- Prefer PDF format for uploads
+- Add a date in filenames when possible
